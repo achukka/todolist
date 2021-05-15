@@ -2,6 +2,13 @@
 
 A React App to Monitor your to do list
 
+## Documents
+
+- [Chapter 01: Create React App](docs/chapter_01_create_app.md)
+- [Chapter 02: Test React App using Jest](docs/chapter_02_testing_using_jest.md)
+- [Chapter 03: Build and Test React App using GitHub Actions](docs/chapter_03_build_test_react_app.md)
+- [Chapter 01: Deploy React App using GitHub Actions](docs/chapter_04_deploy_react_app.md)
+
 ### `npm start`
 
 Runs the app in the development mode.\
