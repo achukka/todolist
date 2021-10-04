@@ -604,13 +604,6 @@ Please check this [commit](https://github.com/achukka/todolist/pull/4/commits/e2
 
 ![Congratulations](https://miro.medium.com/max/498/1*KowWujusMfDjlkjeeOFEBg.gif)
 
-> I have also hosted this application on [Code Sandbox](https://codesandbox.io/s/github/achukka/todolist). Feel free to play with it
-> <<<<<<< HEAD
-
-# <<<<<<< HEAD
+I have also hosted this application on [Code Sandbox](https://codesandbox.io/s/github/achukka/todolist). Feel free to play with it
 
 Thanks for reading through the entire article. Please reach out with questions, comments and/or feedback.
-
-> > > > > > > # babcbd8... Add: Document for chapter 1
-> > > > > > >
-> > > > > > > 106380c... Add: Docs for chapter 2
