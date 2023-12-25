@@ -65,7 +65,7 @@ class AddItem extends React.Component<{ addItem: any }, Item> {
               />
             </td>
             <td>
-              <input id="submit" type="submit" onClick={this.addItem} />
+              <input id="submit" type="submit" onClick={this.addItem} value="Submit" />
             </td>
           </tr>
         </tbody>
