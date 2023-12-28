@@ -1,7 +1,7 @@
 import React from "react";
 import { Item } from "./ToDoList";
 
-const isValid = (item: Item): boolean => {
+export const isValid = (item: Item): boolean => {
   return item.task !== "" && item.priority !== -1;
 };
 
